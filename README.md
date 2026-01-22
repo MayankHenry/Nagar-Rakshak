@@ -8,4 +8,4 @@
 ### 💻 Admin Dashboard (Government View)
 | **Real-Time Reporting System** |
 |:---:|
-| <img src="AdminPanelDemoScreenshot.jpg" width="800"> |
+| <img src="DemoScreenshots/AdminPanelDemoScreenshot.png" width="800"> |
