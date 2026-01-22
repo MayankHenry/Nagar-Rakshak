@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "208326011200",
+    "project_id": "nagarrakshak-2026",
+    "storage_bucket": "nagarrakshak-2026.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:208326011200:android:8f5d76bd9a42e4c163f2a5",
+        "android_client_info": {
+          "package_name": "com.example.app_nagar_rakshak"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaY9nbScsHF_VDT29-MV1DkgtA-7mmk6M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
