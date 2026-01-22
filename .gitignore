@@ -1,0 +1,13 @@
+# Secrets
+.env
+APIkey.txt
+
+# Python
+__pycache__/
+venv/
+
+# Flutter
+/build/
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
