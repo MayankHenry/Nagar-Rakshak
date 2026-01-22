@@ -1,5 +1,11 @@
-## 📸 Demo Screenshots
+## 📸 Project Demo
 
-| Mobile App Scan | Admin Dashboard |
+### 📱 Mobile App (Citizen View)
+| ✅ Issue Detected (Pothole) | ❌ No Issue Detected (Safe) |
 |:---:|:---:|
-| <img src="app_scan.png" width="300"> | <img src="admin_dashboard.png" width="500"> |
+| <img src="PotholeDetectDemoPhone.jpeg" width="300"> | <img src="PotholeNotDetectDemoPhone.jpeg" width="300"> |
+
+### 💻 Admin Dashboard (Government View)
+| **Real-Time Reporting System** |
+|:---:|
+| <img src="AdminPanelDemoScreenshot.jpg" width="800"> |
